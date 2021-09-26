@@ -1,0 +1,12 @@
+* {
+  background-color: rgb(108, 199, 226);
+  font-style: bold;
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: rgb(68, 64, 5);
+  font-size: large;
+  text-align: center;
+}
+body {
+  overflow-x: hidden;
+  text-align: center;
+}

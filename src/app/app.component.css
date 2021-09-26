@@ -1,0 +1,14 @@
+input[type="radio"].quiz-radio {
+  text-align: center;
+  margin-left: 30px;
+}
+
+.btn:focus,
+.btn:active,
+.btn:active:focus {
+  outline: none;
+}
+
+.quiz-row {
+  margin-top: 10px;
+}
